@@ -20,12 +20,24 @@ Rules:
     - Memory
 
 **data structure**
-- array
+- [Array](#Array)
 - reverse string
+- [Hash Tables](#Hash-Tables)
 
 **algorithm**
 
-#### configure
+## Array
+> Array is a data structure consisting of a collection of elements.
+
+| Props | Cons |
+| ------------- | ------------- |
+| fast lookup  | slow insert  |
+| fast push/pop  | slow delete  |
+| ordered  | fixed size (static array)  |
+
+## Hash-Tables
+
+#### Testing configure
 install environment
 
 ```yarn```
